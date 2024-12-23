@@ -5,6 +5,8 @@
 
 Welcome to the News App! This application provides news articles categorized by topics and regions. It fetches the latest news using the [NewsAPI](https://newsapi.org/).
 
+
+
 ## Features
 
 - **Category-wise News:** Browse news articles by categories including:
